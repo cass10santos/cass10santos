@@ -1,15 +1,11 @@
 # 👋 Olá! Eu sou o Cássio
 
-![Perfil](https://img.shields.io/badge/Perfil-Ciência%20de%20Dados-blueviolet)
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Análise%20de%20Dados-150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Gráficos%20e%20Visualizações-orange)
-![ScikitLearn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-f7931e)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20SQLite-336791)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboards%20Interativos-yellow)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Terminal-6c7a89)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Controle%20de%20Versão-%23cf7cfc)
-![Status](https://img.shields.io/badge/Status-Em%20Evolução-gold)
+![Perfil](https://img.shields.io/badge/Ciência%20de%20Dados-Tecnólogo-%23cf7cfc)
+![Python](https://img.shields.io/badge/Python-3.10-%23a304fa)
+![Pandas](https://img.shields.io/badge/Pandas-Análise%20de%20Dados-%23620296)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-%23d304c5)
+![Linux](https://img.shields.io/badge/Linux-Terminal%20e%20Scripts-%23140c0c)
+
 
 
 🎓 Tecnólogo em Ciência de Dados pela Anhanguera  
